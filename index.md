@@ -26,4 +26,4 @@ The image should be inserted with code like that below where you replace the fil
 ### Project Journal ###
 
  <!--- The following link will direct to your process and reflection journal, which will be held in the file `journal.md` in the folder called `journal`. This link should not be changed. --->
-[Journal](/journal/journal.md)
+### [Journal](/journal/journal.md) ###
