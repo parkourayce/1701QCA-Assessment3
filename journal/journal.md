@@ -1,4 +1,4 @@
-# Assessment 3: Final project journal
+# 1701QCA Final project journal: *Insert your name here*
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
