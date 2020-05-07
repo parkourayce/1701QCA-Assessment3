@@ -1,68 +1,33 @@
 # 1701QCA Making Interaction - Assessment 3 workbook
 
-<!--- Comments are included in a block like this that opens with a less than symbol, exclamation mark and three hyphens and closes with three hyphens and a greater than symbol. You will replace comments like these in various places throughout the workbook or add non-commented text there. Make sure you do not include any text you want visible within these symbols or it will not be visible to your instructor. --->
+<!--- Instructions for the journal will mostly be included as comments, which appear in a block like this that opens with a less than symbol, exclamation mark and three hyphens and closes with three hyphens and a greater than symbol. Make sure you do not include any text you want visible within these symbols or it will not be visible to your instructor. In some cases, such as in headings, there is italicised text included between asterisks that needs to be replaced. --->
 
-## <!--- Project title ---> ##
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
+<!--- When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up. You should NOT be submitting a link that begins with github.com/[your user name] as that is not the rendered version. See the instructions about creating GitHub pages to see how to get the link to the rendered page. --->
 
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
+## *Insert project title here* ##
+### *Insert your name here* ###
+### 1701QCA Making Interaction 2020 ###
 
-## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+<!--- When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up. --->
 
-## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
+<!--- SHOWCASE IMAGE: Insert a showcase image here. Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style. 
 
-### Related project 1 ###
-*Insert name of project*
-
-*Insert URL to project*
+The image should be inserted with code like that below where you replace the filename to exactly match what you uploaded. This will only work reliably if your filename has no spaces or unusual characters in it. The image must be in .jpg, .gif, .png format. Files of .heic or .heif type will not show up.
+--->
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+<!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
 
-## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
-
-### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
-
-## Conceptual progress ##
-
-### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
-
-### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
-
-### Design concept 2 ###
-*Put details here.*
-
-### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
-
-### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+<!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
 
 ![Image](missingimage.png)
 
-## Physical experimentation documentation ##
+<!--- PROJECT VIDEO: Provide a still image from your video and a link to the video below. In that code, replace `missingimage.png` with the still from your video and the URL of the video where indicated. If you link to a password protected video, you must include the password in the document you submit through Learning@Griffith. Failing to have a video that we can access might lead to significant reduction in marks, potentially as much as if the video has not been submitted at all. --->
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+[![Image](missingimage.png)](https://your video address)
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+### Project Journal ###
 
-![Image](missingimage.png)
-
-## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
-
-## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+ <!--- The following link will direct to your process and reflection journal, which will be held in the file `journal.md` in the folder called `journal`. This link should not be changed. --->
+[Journal](/journal/journal.md)
