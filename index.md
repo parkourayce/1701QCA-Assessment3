@@ -1,4 +1,4 @@
-# *Insert project title here* #
+# *Insert project title here*
 ## *Insert your name here* ##
 ## 1701QCA Making Interaction 2020 Final Project ##
 
