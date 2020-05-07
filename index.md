@@ -1,14 +1,10 @@
-# 1701QCA Making Interaction - Assessment 3 workbook
+# *Insert project title here* #
+## *Insert your name here* ##
+## 1701QCA Making Interaction 2020 Final Project ##
 
 <!--- Instructions for the journal will mostly be included as comments, which appear in a block like this that opens with a less than symbol, exclamation mark and three hyphens and closes with three hyphens and a greater than symbol. Make sure you do not include any text you want visible within these symbols or it will not be visible to your instructor. In some cases, such as in headings, there is italicised text included between asterisks that needs to be replaced. --->
 
-<!--- When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up. You should NOT be submitting a link that begins with github.com/[your user name] as that is not the rendered version. See the instructions about creating GitHub pages to see how to get the link to the rendered page. --->
-
-## *Insert project title here* ##
-### *Insert your name here* ###
-### 1701QCA Making Interaction 2020 ###
-
-<!--- When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up. --->
+<!--- When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment3/](https://qcainteractivemedia.github.io/1701QCA-Assessment3/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment3` is replaced with whatever you called the repository this template is contained in when you set it up. You should NOT be submitting a link that begins with github.com/[your user name] as that is not the rendered version. See the instructions about creating GitHub pages to see how to get the link to the rendered page. --->
 
 <!--- SHOWCASE IMAGE: Insert a showcase image here. Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style. 
 
