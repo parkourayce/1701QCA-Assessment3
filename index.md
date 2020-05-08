@@ -8,7 +8,7 @@
 
 <!--- SHOWCASE IMAGE: Insert a showcase image here. Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style. 
 
-The image should be inserted with code like that below where you replace the filename to exactly match what you uploaded. This will only work reliably if your filename has no spaces or unusual characters in it. The image must be in .jpg, .gif, .png format. Files of .heic or .heif type will not show up.
+The image should be inserted with code like that below where you replace the filename to exactly match what you uploaded. This will only work reliably if your filename has no spaces or unusual characters in it. The image must be in .jpg, .gif, .png format. Files of .heic or .heif type will not show up. Note that .png is different to .PNG in a filename here. The names are case sensitive.
 --->
 
 ![Image](missingimage.png)
