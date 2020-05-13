@@ -61,6 +61,6 @@ There will likely by a dozen or so images of the project under construction. The
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
-What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
+What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
