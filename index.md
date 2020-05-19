@@ -13,10 +13,7 @@ This project is the one and only backflip counter. The project straps onto your 
 ![Image](missingimage.png)backflip with it on
 
 [![Image](missingimage.png)]
-Still image from video
-
-(https://your video address)
-video
+(https://your Watch the backflip counter in Action here
 
 ### Journal ###
 [Process and reflection journal](/journal/journal.md) 
