@@ -72,36 +72,44 @@ For the second design concept idea, I thought about putting the device around th
 For the final design concept, I thought about having a strap or a band, so that it was like wearing a watch. This would interfere the least with the actual backflip and will most likely be the most comfortable for the user. I thought about either using an old sock or sewing it into it. The interaction for the user would be the most easy and familiar, as people have most likely worn watches before. The materials to be used would be cotton. I am also thinking about a strap like a watch, but I don’t know how I’d attach it to the micro bit. While writing this I came up with a final idea. I could glue the micro bit down to a piece of strong cardboard, and then make holes which can fit rubber band in. These rubber bands you would be able to squeeze over your arm to make it tight. 
 
 ### Final design concept ###
-The final concept design I have made is a microbit attatched to rubber bands, which fit around your wrist. From my testing I found that this was the most robust design, as rubber bands are strong and stretchy. They are also useful as they can squeeze tighter to fit around smaller or larger wrists. 
+The final concept design I have made is a microbit attatched to rubber bands, which fit around your wrist. From my testing I found that this was the most robust design, as rubber bands are strong and stretchy. They are also useful as they can squeeze tighter to fit around smaller or larger wrists.
 
 ### Interaction flowchart ###
 The interaction of this device is very user friendly and only needs a few instructions. Person puts the wearable device on > press ‘A’ to reset or > resume current score> do flips to make the score higher. 
 
-![Image](missingimage.png)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
 ## Fabrication ##
 Fabrication. The initial materials I was going to use was cotton, and to sew it onto a sock. However, I changed my mind when I realised I didn’t have any old socks I wanted to cut apart, and I also didn’t know how to sew. I thought about gluing the micro bit to a little bit of cardboard, or double sided taping it. Then having holes on this board which rubber bands would be able to attach onto, and onto your arms.  
 
-Design Concept Video. 
-https://www.youtube.com/watch?v=Anxr-vdkpsc
-This video shows that as the device is rotated upside down, the score goes up by 1. 
-
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
-
-## Final code ##
-![Image](missingimage.png)
-
+## Final Concept ##
+For the final concept I decided it was the best idea to use rubber bands. After a little bit of research and primary testing, I found that rubber bands were the strongest. I attempted to sew the microbit onto an old sock, however my sewing skills were not very good, and it did not turn out very good. 
+ 
 
 ## Design process discussion ##
 The design process I formed, based particularly on the double diamond design strategy was that the main problems of design one and two were that they were not the most user friendly. Possible solutions that I came up with that could work were putting the micro bit onto your wrist. 
 
+I was having lots of trouble figuring out the best way to attatch the microbit to my wrist. I also didn't have many materials where I live so working with what I had made it increasingly challenging. I found a few rubber bands throughout the house, and also learnt that it is a very strong material. 
+
+![Image](4.jpg)
+Step one of my final design process was threading rubber bands through the two end microbit holes. Doing this I was able to create a loop on the opposite side of the microbit. 
+
+![Image](5.jpg)
+With this loop now in place, I was able to thread two more rubber bands through these, which are the rubber bands you will use to put the microbit onto your wrist. 
+
+![Image](3.jpg)
+The external battery gets tucked underneath these two rubber bands, this keeps it secure, so it doesn't fall out when you're doing a flip. 
+
+
+## Final code ##
+![Image](code.JPG)
+
 ## Reflection ##
+The techniques, approaches and skills I found useful from the related projects were learning about the different ways that you can attatch the microbit to your wrist, there are various different ways, however through learning about some of them, I concluded that there were effective ways and non effective ways.
 
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+If I was to improve on this product, I would want to 3D print a custom band case thing, which would fit the microbit onto, this would then have a built in battery and it would have a strap similar to a watch so that the product would fit perfectly. This would then be more of a finished product. 
 
-What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
+The part of my project that I think is novel is the fact that it counts when you do flips. No other device or microbit project I've seen has ever done this before. This is a first of it's kind design, and could potentially be turned into an actual product to sell. 
 
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+An interesting extention of this could be used in gymnastics performances, however not only measuring how many flips, but the height of each flip and how many twists were in the flip. This could be used in the olympics to help judge the performances. 
