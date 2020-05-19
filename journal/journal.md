@@ -110,6 +110,8 @@ The techniques, approaches and skills I found useful from the related projects w
 
 If I was to improve on this product, I would want to 3D print a custom band case thing, which would fit the microbit onto, this would then have a built in battery and it would have a strap similar to a watch so that the product would fit perfectly. This would then be more of a finished product. 
 
+The easy part of the project was the code itself, by researching similar projects, the coding I had to do came pretty easy and intuitive. It works on a simple if this then that system, where if the device is rotated upside down, the score counter goes up by one. 
+
 The part of my project that I think is novel is the fact that it counts when you do flips. No other device or microbit project I've seen has ever done this before. This is a first of it's kind design, and could potentially be turned into an actual product to sell. 
 
 An interesting extention of this could be used in gymnastics performances, however not only measuring how many flips, but the height of each flip and how many twists were in the flip. This could be used in the olympics to help judge the performances. 
