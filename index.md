@@ -11,10 +11,10 @@
 This project is the one and only backflip counter. The project straps onto your wrist and keeps count of how many flips you do. It is for people who love doing flips to wear when they have a session, or on the trampoline and get data about how many flips they do, or just try to beat their high score. 
 
 
-![Image](missingimage.png)backflip with it on
+![Image](i.jpg)backflip with it on
 
-![Image](missingimage.png)
-(https://your Watch the backflip counter in Action here
+![Image](e.JPG)
+(https://www.youtube.com/watch?v=Cj-7E5hCcxc) Watch the backflip counter in Action here
 
 ### Journal ###
 [Process and reflection journal](/journal/journal.md) 
